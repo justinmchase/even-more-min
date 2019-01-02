@@ -1,6 +1,6 @@
 {
   "name": "even-more-min",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal mocha reporter, which does clear the console or move the cursor.",
   "main": "index.js",
   "keywords": [
